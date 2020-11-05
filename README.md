@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title> azain institute </title>
+	<title> Azain's Website </title>
 </head>
 <body>
 	<table width="100%" bgcolor="black">
