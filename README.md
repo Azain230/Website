@@ -7,7 +7,7 @@
 	<table width="100%" bgcolor="black">
 		<tr>
 			<td><font color="white" size="6px" > <h1 align="Left"> Azain Institute </h1>  </font> </td>
-			<td> <img src="3 (2).jpeg" width="200px" > </td>
+			<td>.......................</td>
 			<td>.......................</td>
 			<td>.......................</td>
 			<td><font color="white" size="6px"> Call Us 0331 344 3547 </font> </td>
