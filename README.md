@@ -41,17 +41,17 @@
 			</td>
 	</table>
 			<td>
-				<table>
+				<table width=100%>
 						<tr><td><img src="1.jpg" width="370px" > </td> </tr>
 						<tr><td bgcolor="#db540b" ><ul><li><font size="5px">Online Classes Available</font></li></ul></td></tr>
 						<tr><td bgcolor="#787878" ><ul><li><font size="5px">4 week </font></li></ul></td></tr>
 						<tr><td bgcolor="#54d1ab" ><ul><li><font size="5px">40,000 PKR </font></li></ul></td></tr>
 						<tr><td><font size=" 5px"><b>Graphic Designing</font></b>
-						<br><font size="4px"> Start a profitable design career. In this 4 weeks <br> short course  we will teach you 3 of the works.</br></font></td></tr>
+						<br><font size="4px"> Start a profitable design career. </font></td></tr>
 				</table>
 			</td>
-<td>
-	<table>
+			<td>
+				<table>
 					<tr> <td> <img src="p.jpeg" width="350px" > </td> </tr>
 					<tr> <td bgcolor="#db540b" > <ul> <li> <font size="5px"> Online Classes Available </font></li></ul></td></tr>
 					<tr><td bgcolor="#787878" ><ul><li><font size="5px"> 2 months </font></li></ul></td></tr>
